@@ -1,4 +1,4 @@
-import { CDN_URL, LOGO_URL } from "../utils/constants";
+import { CDN_URL } from "../utils/constants";
 
 const RestaurantCard = ({ resData }) => {
   const {
